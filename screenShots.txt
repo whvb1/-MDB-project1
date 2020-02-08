@@ -1,0 +1,4 @@
+first screenshot is the home screen
+sconde screenshot is the regular game operation
+the third screenshot is an example of what happens when an incorrect answer is clicked
+
